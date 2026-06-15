@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquella-vieja-fotografia-borrosa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Aquella vieja fotografía borrosa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-vieja-fotografia-borrosa/) |
+| **Get License** | [Request Licensing for Aquella vieja fotografía borrosa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-vieja-fotografia-borrosa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3334)
 
 ---
 
