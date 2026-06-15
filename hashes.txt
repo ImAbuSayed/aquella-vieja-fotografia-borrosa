@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aquella vieja fotografía borrosa
+
+This log tracks the cryptographic history and versioning for the song **Aquella vieja fotografía borrosa** (aquella-vieja-fotografia-borrosa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:15:04.605767 | `v1` | `2db85fb2eeb09f7c8ab30860bb673cfea0ce8ad5b137035edba6da5cae8e08d8` | `42fb7406743b8fbb880ab87c3e80d47c04ede4219d32499194d5fa0843a71a33` | `2026-06-15_aquella-vieja-fotografia-borrosa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
